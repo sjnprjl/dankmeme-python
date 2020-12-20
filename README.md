@@ -4,7 +4,7 @@ dankmeme-python is a simple bot script which uses fbchat module.
 ## HOW TO USE:
 __First, clone this repo__
 ```bash
-git clone https://github.com/sujanp100/dankmeme-python.git
+git clone https://github.com/ilvghst/dankmeme-python.git
 ```
 __Second, create _config.py_ file__
 ```bash
